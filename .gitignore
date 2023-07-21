@@ -1,5 +1,7 @@
 node_modules
 build
 ./server/.env
+/server/.env
+.env
 ./server/node_modules
 ./client/node_modules
